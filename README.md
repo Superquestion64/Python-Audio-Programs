@@ -14,5 +14,6 @@ All of the programs are dependent on PyAudio, detailed installation is provided 
 PyAudio cannot be installed using 'pip install PyAudio' for modern python versions as it has not been updated.
 To install PyAudio the proper wheel file must be manually downloaded for your computer architecture and python version
 - The wheel file can be found at https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
-- Once the correct wheel file is downloaded, simply run 'pip install c:\Users\username\Downloads\wheel_file_name'
+- Once the correct wheel file is downloaded, simply run: <br> <br>
+**pip install c:\Users\username\Downloads\wheel_file_name**
 
