@@ -4,5 +4,5 @@ This program will record and play audio to and from the user's default audio dev
 - Sync_Audio.py runs indefinitely, but it will terminate when given any user input
 - This program is intended as a test to see if PyAudio is working properly
 - Sync_Audio.py is run by simply using: <br> <br>
-*'python Sync_Audio.py.py'* <br> <br>
+**python Sync_Audio.py** <br> <br>
 - Sync_Audio.py is dependent on PyAudio
