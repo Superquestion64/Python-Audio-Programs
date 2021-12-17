@@ -1,4 +1,4 @@
-## Record Audio in Python
+# Record Audio in Python
 This program is able to record audio from the user's default input device and save it as a wav file inside its directory
 - Audio_Recorder.py has one function, record(seconds). To launch this program, simply run <br> <br>
 **python Audio_Recorder.py** <br> <br>
